@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769979665682",
+    "project_id": "movieticketbooking-fyp",
+    "storage_bucket": "movieticketbooking-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769979665682:android:3bfd6852c76bf74f3937cb",
+        "android_client_info": {
+          "package_name": "com.example.filmvibes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtH4R25pZG9K4JbEtckA6b_glbpTTcp0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
